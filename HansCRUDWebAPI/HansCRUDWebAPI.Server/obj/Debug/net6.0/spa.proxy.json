@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\SAMSUNG\\Desktop\\Hans Angular API\\CRUDAngularWebAPI\\HansCRUDWebAPI\\HansCRUDWebAPI.Server\\..\\hanscrudwebapi.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

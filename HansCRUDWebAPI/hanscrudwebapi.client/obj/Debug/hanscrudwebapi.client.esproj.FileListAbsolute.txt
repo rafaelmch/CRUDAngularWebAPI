@@ -1,0 +1,1 @@
+C:\Users\SAMSUNG\Desktop\Hans Angular API\CRUDAngularWebAPI\HansCRUDWebAPI\hanscrudwebapi.client\obj\Debug\hanscrudwebapi.client.esproj.CoreCompileInputs.cache
